@@ -1,1 +1,1 @@
-Note application with redux toolkit
+Note application with redux toolkit and redux persist
